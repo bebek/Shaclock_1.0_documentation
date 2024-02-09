@@ -1,4 +1,5 @@
 ShaClock32 pcboard rev 1.0
+
 Supporte 3 types de mcu :
 •	esp8266 
 •	esp32 
