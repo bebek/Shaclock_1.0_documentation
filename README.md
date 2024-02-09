@@ -6,7 +6,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 	esp8266 
 	•	esp32 
-•	esp32S2
+**	esp32S2
 ### trois
 #### quatre
 ## Installation
