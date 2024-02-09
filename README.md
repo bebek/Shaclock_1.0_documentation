@@ -5,7 +5,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Supporte 3 types de mcu :
 
 	esp8266 
-•	esp32 
+	•	esp32 
 •	esp32S2
 ### trois
 #### quatre
