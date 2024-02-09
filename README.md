@@ -22,8 +22,8 @@ Si l'on veut utiliser la mémoire externe on doit fermer les JP1 JP2 et JP3.
 De plus il faut ponter U6.3 avec U6.4 ainsi que U6.7 avec U6.8 pour ne pas laisser flottantes les entrées 3 et 7.
 On pourra utiliser la 23LCV1024 ainsi que la PSRAM64H en mode SPI simple.
 ## cas du esp32S2
-même prinicipe que pour l'esp8266
-il faut noter que ce chip possède une ram interne conséquente aucun besoin de ram externe. Ou alors la PSRAM64H
+Il faut noter que ce chip possède une ram interne conséquente aucun besoin de ram externe.
+Si l'on veut alors la PSRAM64H en U6. Même prinicipe que pour l'esp8266 pour accéder à la RAM.
 ## cas du esp32
 on peut utiliser la 23LCV1024 ainsi que la PSRAM64H en U6 
 On peut mettre la PSRAM64H en U5 pour que la memoire soit dans le plan mémoire du chip
