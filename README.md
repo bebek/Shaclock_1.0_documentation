@@ -1,10 +1,17 @@
-# Foobar
+# ShaClock32 pcboard rev 1.0
 
 Foobar is a Python library for dealing with word pluralization.
+
+## Supporte 3 types de mcu :
+
+* esp8266 
+•	esp32 
+•	esp32S2
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
 pip install foobar
@@ -36,15 +43,12 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-#ShaClock32 pcboard rev 1.0
+#
 
 ##Supporte 3 types de mcu :
 
 
 
-•	esp8266 
-•	esp32 
-•	esp32S2
 
 
 ##Supporte 3 types de régulateurs 5V :
