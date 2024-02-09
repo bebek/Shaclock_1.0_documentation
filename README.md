@@ -3,50 +3,19 @@
 Foobar is a Python library for dealing with word pluralization.
 
 ## Supporte 3 types de mcu :
+$;:
+esp8266
+*
+# ESPTelnet
 
-	esp8266 
-	•	esp32 
-**	esp32S2
-### trois
-#### quatre
-## Installation
+ESP8266/ESP32 library that allows you to setup a telnet server.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+* Author: Lennart Hennigs [https://www.lennarthennigs.de](https://www.lennarthennigs.de)
+* Copyright (C) 2018-2023 Lennart Hennigs.
+* Released under the MIT license.
 
+## Description
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-#
-
-##Supporte 3 types de mcu :
 
 
 
